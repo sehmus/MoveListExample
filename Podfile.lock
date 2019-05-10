@@ -1,0 +1,23 @@
+PODS:
+  - Alamofire (4.8.2)
+  - Cosmos (19.0.3)
+  - NVActivityIndicatorView (4.7.0):
+    - NVActivityIndicatorView/Presenter (= 4.7.0)
+  - NVActivityIndicatorView/Presenter (4.7.0)
+  - SwiftyUserDefaults (4.0.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.8.2)
+  - Cosmos (~> 19.0)
+  - NVActivityIndicatorView
+  - SwiftyUserDefaults (~> 4.0)
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  Cosmos: a6fb17284281fa12cf4c85c2efecd440a215ec44
+  NVActivityIndicatorView: b19ddab2576f805cbe0fb2306cba3476e09a1dea
+  SwiftyUserDefaults: 6a1951df1daa19337862b677dd9a4b9bd4c288cd
+
+PODFILE CHECKSUM: a69ec7210b52aea9e8f297722c11ea3611f00a9e
+
+COCOAPODS: 1.4.0
